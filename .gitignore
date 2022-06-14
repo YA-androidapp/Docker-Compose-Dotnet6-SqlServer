@@ -1,0 +1,8 @@
+app/out/*
+app/src/*
+
+db/data/*
+db/log/*
+db/secrets/*
+
+.env
